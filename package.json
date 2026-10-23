@@ -41,7 +41,7 @@
   },
   "description": "Mock API server for rapid frontend development and testing",
   "author": "Mehdi Nabhani",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "api",
     "mocker",
